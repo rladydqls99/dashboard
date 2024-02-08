@@ -1,0 +1,385 @@
+{
+  "data": [
+    {
+      "id": "0",
+      "deptName": "플랫폼사업관리부",
+      "deptCode": "1000",
+      "projects": [
+        {
+          "key": 1179,
+          "year": 2023,
+          "projectCode": "XXXX-164",
+          "projectName": "스마트 충북실록 아카이브 시스템 구축",
+          "startDate": "2023-12-21",
+          "endDate": "2024-09-16"
+        },
+        {
+          "key": 1163,
+          "year": 2023,
+          "projectCode": "XXXX-161",
+          "projectName": "한국해양교통안전공단 대구통합전산센터 이전 및 클라우드 전환",
+          "startDate": "2023-12-18",
+          "endDate": "2024-03-14"
+        },
+        {
+          "key": 1161,
+          "year": 2023,
+          "projectCode": "XXXX-160",
+          "projectName": "국립한국교통대학교 철도HRD센터 홈페이지 구축 용역 계약",
+          "startDate": "2023-12-18",
+          "endDate": "2024-01-31"
+        },
+        {
+          "key": 1149,
+          "year": 2023,
+          "projectCode": "XXXX-155",
+          "projectName": "서천군 청년홈페이지 구축 용역",
+          "startDate": "2023-12-08",
+          "endDate": "2024-03-08"
+        },
+        {
+          "key": 1104,
+          "year": 2023,
+          "projectCode": "XXXX-129",
+          "projectName": "대표 홈페이지 재구축 용역 (나노종합기술원)",
+          "startDate": "2023-11-01",
+          "endDate": "2024-03-31"
+        },
+        {
+          "key": 1099,
+          "year": 2023,
+          "projectCode": "XXXX-126",
+          "projectName": "한국교통대학교 통합홈페이지 고도화 구축 용역",
+          "startDate": "2023-10-20",
+          "endDate": "2024-03-18"
+        },
+        {
+          "key": 1088,
+          "year": 2023,
+          "projectCode": "XXXX-119",
+          "projectName": "대전 방과후학교 돌봄지원센터 홈페이지 고도화 사업 용역",
+          "startDate": "2023-10-04",
+          "endDate": "2024-03-02"
+        },
+        {
+          "key": 1078,
+          "year": 2023,
+          "projectCode": "XXXX-112",
+          "projectName": "구정홍보 디지털 아카이브 시스템 구축 용역",
+          "startDate": "2023-09-18",
+          "endDate": "2024-03-15"
+        },
+        {
+          "key": 1033,
+          "year": 2023,
+          "projectCode": "XXXX-090",
+          "projectName": "과학기술인 경력개발 종합지원 플랫폼 K-클럽 기능 개선 사업",
+          "startDate": "2023-07-21",
+          "endDate": "2023-12-20"
+        },
+        {
+          "key": 1025,
+          "year": 2023,
+          "projectCode": "XXXX-084",
+          "projectName": "충남대학교병원 다중검사 알고리즘 개발 용역",
+          "startDate": "2023-07-05",
+          "endDate": "2024-01-12"
+        },
+        {
+          "key": 1011,
+          "year": 2023,
+          "projectCode": "XXXX-076",
+          "projectName": "국립등대박물관 홈페이지 개편 용역",
+          "startDate": "2023-06-27",
+          "endDate": "2023-11-24"
+        },
+        {
+          "key": 996,
+          "year": 2023,
+          "projectCode": "XXXX-063",
+          "projectName": "예산군 통합 누리집 전면 개편 용역",
+          "startDate": "2023-06-07",
+          "endDate": "2023-12-04"
+        },
+        {
+          "key": 1707372424430,
+          "projectCode": "qqqq-123",
+          "projectName": "플랫폼사업 관리부 테스트",
+          "startDate": "1234-12-12",
+          "endDate": "1234-12-12"
+        },
+        {
+          "key": 1707372617612,
+          "projectCode": "rrrr-123",
+          "projectName": "테스트2",
+          "startDate": "1234-12-12",
+          "endDate": "1234-12-12"
+        },
+        {
+          "key": 1707372702104,
+          "projectCode": "qqqq-222",
+          "projectName": "test3",
+          "startDate": "1234-12-12",
+          "endDate": "1234-12-12"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "deptName": "전략사업본부",
+      "deptCode": "2000",
+      "projects": [
+        {
+          "key": 991,
+          "year": 2023,
+          "projectCode": "YYYY-061",
+          "projectName": "2023 DGIST 홈페이지 신규 구축 용역",
+          "startDate": "2023-06-01",
+          "endDate": "2023-12-31"
+        },
+        {
+          "key": 985,
+          "year": 2023,
+          "projectCode": "YYYY-056",
+          "projectName": "스마트 해양바이오 플랫폼 기획 및 구축 연구 (컨소시엄)",
+          "startDate": "2023-05-31",
+          "endDate": "2023-12-15"
+        },
+        {
+          "key": 975,
+          "year": 2023,
+          "projectCode": "YYYY-049",
+          "projectName": "유성구 평생학습원 홈페이지 재구축",
+          "startDate": "2023-05-17",
+          "endDate": "2023-12-05"
+        },
+        {
+          "key": 1165,
+          "year": 2023,
+          "projectCode": "YYYY-029",
+          "projectName": "충남 의료주권 민간단체 출범식 홍보영상 제작",
+          "startDate": "2023-12-01",
+          "endDate": "2023-12-15"
+        },
+        {
+          "key": 1118,
+          "year": 2023,
+          "projectCode": "YYYY-028",
+          "projectName": "논산시 부서안내판 수리_2차(카드결제건)",
+          "startDate": "2023-11-10",
+          "endDate": "2023-11-10"
+        },
+        {
+          "key": 1110,
+          "year": 2023,
+          "projectCode": "YYYY-027",
+          "projectName": "계룡시 도서관 디지털 홍보시스템 구축 용역",
+          "startDate": "2023-11-03",
+          "endDate": "2023-12-06"
+        },
+        {
+          "key": 1707372484943,
+          "projectCode": "wwww-123",
+          "projectName": "전략사업본부 테스트",
+          "startDate": "1234-12-12",
+          "endDate": "1234-12-12"
+        },
+        {
+          "key": 1707373493468,
+          "projectCode": "fdss-123",
+          "projectName": "test4",
+          "startDate": "1234-12-12",
+          "endDate": "1234-12-12"
+        },
+        {
+          "key": 1707373682613,
+          "projectCode": "xxxx-333",
+          "projectName": "123",
+          "startDate": "1234-12-12",
+          "endDate": "1234-12-12"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "deptName": "서비스제작부",
+      "deptCode": "3000",
+      "projects": [
+        {
+          "key": 1107,
+          "year": 2023,
+          "projectCode": "ZZZ-026",
+          "projectName": "금산군 보건소 영상 제작 용역(카드결제건)",
+          "startDate": "2023-10-26",
+          "endDate": "2023-10-26"
+        },
+        {
+          "key": 1102,
+          "year": 2023,
+          "projectCode": "ZZZ-025",
+          "projectName": "청사 디지털 관광 안내판 구매 설치",
+          "startDate": "2023-10-20",
+          "endDate": "2023-11-16"
+        },
+        {
+          "key": 1087,
+          "year": 2023,
+          "projectCode": "ZZZ-024",
+          "projectName": "군청 2층 상황실 모니터링 시스템 구입",
+          "startDate": "2023-10-04",
+          "endDate": "2023-12-02"
+        },
+        {
+          "key": 1073,
+          "year": 2023,
+          "projectCode": "ZZZ-023",
+          "projectName": "논산시의회 빅데이터 통합 플랫폼 대시보드 구매.설치",
+          "startDate": "2023-09-05",
+          "endDate": "2024-01-03"
+        },
+        {
+          "key": 1063,
+          "year": 2023,
+          "projectCode": "ZZZ-022",
+          "projectName": "SKT 실시간 인파모니터링 서비스 용역",
+          "startDate": "2023-08-25",
+          "endDate": "2023-09-14"
+        },
+        {
+          "key": 1055,
+          "year": 2023,
+          "projectCode": "ZZZ-021",
+          "projectName": "빅데이터 분석시스템 업그레이드 및 라이선스 갱신",
+          "startDate": "2023-08-17",
+          "endDate": "2023-10-17"
+        },
+        {
+          "key": 1049,
+          "year": 2023,
+          "projectCode": "ZZZ-020",
+          "projectName": "영동군 홈페이지 부분 개편",
+          "startDate": "2023-08-10",
+          "endDate": "2023-11-11"
+        },
+        {
+          "key": 1040,
+          "year": 2023,
+          "projectCode": "ZZZ-019",
+          "projectName": "온누리 공주 활성화 및 정보화전략(ISP)계획 수립 용역",
+          "startDate": "2023-08-04",
+          "endDate": "2023-12-07"
+        },
+        {
+          "key": 1035,
+          "year": 2023,
+          "projectCode": "ZZZ-018",
+          "projectName": "예산군 통합 누리집 전면 개편사업 상용 SW 구입",
+          "startDate": "2023-07-26",
+          "endDate": "2023-08-24"
+        },
+        {
+          "key": 1034,
+          "year": 2023,
+          "projectCode": "ZZZ-017",
+          "projectName": "계룡시 청사 디지털 홍보시스템 구축 용역",
+          "startDate": "2023-07-26",
+          "endDate": "2023-09-30"
+        },
+        {
+          "key": 1032,
+          "year": 2023,
+          "projectCode": "ZZZ-016",
+          "projectName": "2023 충남문화포털 유지보수 용역",
+          "startDate": "2023-07-03",
+          "endDate": "2024-06-30"
+        },
+        {
+          "key": 1017,
+          "year": 2023,
+          "projectCode": "ZZZ-015",
+          "projectName": "2023년 카드가맹 데이터 구입",
+          "startDate": "2023-06-28",
+          "endDate": "2024-02-20"
+        },
+        {
+          "key": 1007,
+          "year": 2023,
+          "projectCode": "ZZZ-014",
+          "projectName": "조세포털교육 홈페이지 구축",
+          "startDate": "2023-06-26",
+          "endDate": "2023-09-23"
+        },
+        {
+          "key": 1006,
+          "year": 2023,
+          "projectCode": "ZZZ-013",
+          "projectName": "빅데이터통합플랫폼구축 웹투비(WebtoB) 소프트웨어 도입",
+          "startDate": "2023-06-23",
+          "endDate": "2023-07-22"
+        },
+        {
+          "key": 982,
+          "year": 2023,
+          "projectCode": "ZZZ-012",
+          "projectName": "(계약해지)울산대공원 장미축제 실시간 인파 모니터링 서비스 용역",
+          "startDate": "2023-05-22",
+          "endDate": "2023-05-28"
+        },
+        {
+          "key": 970,
+          "year": 2023,
+          "projectCode": "ZZZ-011",
+          "projectName": "섬진강기차마을 실시간 인파 모니터링 서비스 용역",
+          "startDate": "2023-05-10",
+          "endDate": "2023-06-01"
+        },
+        {
+          "key": 968,
+          "year": 2023,
+          "projectCode": "ZZZ-010",
+          "projectName": "딸기향 농촌테마공원 키오스크 서비스 제작 용역",
+          "startDate": "2023-05-08",
+          "endDate": "2023-08-06"
+        },
+        {
+          "key": 964,
+          "year": 2023,
+          "projectCode": "ZZZ-009",
+          "projectName": "탑정호출렁다리 메타버스 고도화 사업 용역",
+          "startDate": "2023-05-02",
+          "endDate": "2023-10-04"
+        },
+        {
+          "key": 941,
+          "year": 2023,
+          "projectCode": "ZZZ-008",
+          "projectName": "홍주문화회관 누리집 기능고도화 사업",
+          "startDate": "2023-03-27",
+          "endDate": "2023-07-27"
+        },
+        {
+          "key": 812,
+          "year": 2023,
+          "projectCode": "ZZZ-007",
+          "projectName": "어린이백제체험관 홈페이지 구축 용역",
+          "startDate": "2023-03-09",
+          "endDate": "2023-06-11"
+        },
+        {
+          "key": 1707372512218,
+          "projectCode": "eeee-123",
+          "projectName": "서비스제작부 테스트",
+          "startDate": "1234-12-12",
+          "endDate": "1234-12-12"
+        },
+        {
+          "key": 1707373849964,
+          "projectCode": "kkkk-123",
+          "projectName": "테스트입니다.",
+          "startDate": "1234-12-12",
+          "endDate": "1234-12-12"
+        }
+      ]
+    }
+  ]
+}
