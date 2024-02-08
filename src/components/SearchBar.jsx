@@ -31,8 +31,9 @@ function SearchBar() {
     e.preventDefault();
     setInputValue("");
     setDeptName(null);
-    refetch();
     setInputState(!inputState);
+
+    refetch();
   };
 
   const onChange = (e) => {

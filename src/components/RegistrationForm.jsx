@@ -5,14 +5,12 @@ import Row from "react-bootstrap/Row";
 import { useMutation, useQuery, useQueryClient } from "react-query";
 import { addProject, getAllDepartment } from "../apis/api";
 import { Dropdown, DropdownButton } from "react-bootstrap";
-import { useContext, useState } from "react";
+import { useState } from "react";
 import { useForm } from "react-hook-form";
-import { DeptContext } from "../App";
 
 function RegistrationForm({ setModalState }) {
   const queryClient = useQueryClient();
   const { data } = useQuery(["deptName"], getAllDepartment);
-  const { setDeptName } = useContext(DeptContext);
 
   const [selectedDept, setSelectedDept] = useState(null);
   const {
@@ -25,14 +23,12 @@ function RegistrationForm({ setModalState }) {
   const postMutation = useMutation(addProject, {
     onSuccess: () => {
       queryClient.invalidateQueries(["deptName"]);
-      console.log("success");
     },
   });
 
   const formOnSubmit = (e) => {
     setModalState(false);
 
-    setDeptName("");
     postMutation.mutate(e);
   };
 

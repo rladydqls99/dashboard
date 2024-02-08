@@ -84,7 +84,6 @@ export const addProject = async (newProject) => {
       (dept) => dept.deptName === newProject.department
     );
 
-    console.log(department);
     department.projects.push({
       key: Date.now(),
       year: year,

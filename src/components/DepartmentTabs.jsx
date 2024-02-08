@@ -6,7 +6,8 @@ import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
 
 function DepartmentTabs() {
-  const { setDeptName } = useContext(DeptContext);
+  const { deptName, setDeptName } = useContext(DeptContext);
+
   const { data, isSuccess } = useQuery(["deptName"], getAllDepartment);
 
   const deptNameOnClick = (dept) => {
@@ -14,17 +15,19 @@ function DepartmentTabs() {
   };
 
   return (
-    <Tabs defaultActiveKey={""} className="mb-3" justify>
-      {isSuccess &&
-        data?.map((dept) => (
-          <Tab
-            eventKey={dept}
-            title={dept || ""}
-            onEntered={() => deptNameOnClick(dept)}
-            key={dept}
-          />
-        ))}
-    </Tabs>
+    <>
+      <Tabs defaultActiveKey="" className="mb-3" justify>
+        {isSuccess &&
+          data?.map((dept) => (
+            <Tab
+              eventKey={dept}
+              title={dept || ""}
+              onEntered={() => deptNameOnClick(dept)}
+              key={dept}
+            />
+          ))}
+      </Tabs>
+    </>
   );
 }
 
